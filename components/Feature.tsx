@@ -42,7 +42,7 @@ const Feature = () => {
             <div className='md:w-full mx-12 md:mx-0 mt-20 text-indigo-100 rounded-lg p-10 hover:p-9 bg-transparent border-t border-r shadow-sm shadow-indigo-900 border-indigo-500'>
                 <h2 className='text-indigo-500 text-3xl md:text-7xl mb-6 md:mb-6'><GrFingerPrint /></h2>
                 <h3 className='text-xl font-bold md:text-2xl mb-4'>Inactivity Protection</h3>
-                <p>If you're gone too long, our system detects inactivity and securely alerts your chosen trustee—so your assets never vanish into limbo.</p>
+                <p>If you&apos;re gone too long, our system detects inactivity and securely alerts your chosen trustee—so your assets never vanish into limbo.</p>
               </div>
           </div>
           <div
@@ -50,7 +50,7 @@ const Feature = () => {
               <div className='md:w-full mx-12 mt-20 md:mt-0 md:mx-0 text-indigo-100 rounded-lg p-10 hover:p-9 bg-transparent border-t border-r shadow-sm shadow-indigo-900 border-indigo-500'>
                 <h2 className='text-indigo-500 text-3xl md:text-7xl mb-6 md:mb-6'><MdOutlineFamilyRestroom /></h2>
                 <h3 className='text-xl font-bold md:text-2xl mb-4'>Trustee Access You Control</h3>
-                <p>Set up trusted family, friends, or partners who can inherit or recover your assets when you're unable to.</p>
+                <p>Set up trusted family, friends, or partners who can inherit or recover your assets when you&apos;re unable to.</p>
               </div>
           </div>
 
@@ -59,7 +59,7 @@ const Feature = () => {
             <div className='md:w-full mx-12 md:mx-0 mt-20 md:mt-0 text-indigo-100 rounded-lg p-10 hover:p-9 bg-transparent border-t border-r shadow-sm shadow-indigo-900 border-indigo-500'>
                 <h2 className='text-indigo-500 text-3xl md:text-7xl mb-6 md:mb-6'><RiCoinsFill /></h2>
                 <h3 className='text-xl font-bold md:text-2xl mb-4'>Future-Proofed for Web3</h3>
-                <p>Whether you're investing, trading, or building, your crypto legacy is protected against the unexpected.</p>
+                <p>Whether you&apos;re investing, trading, or building, your crypto legacy is protected against the unexpected.</p>
               </div>
           </div>
         </motion.div>

@@ -16,7 +16,7 @@ const Step = () => {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
             viewport={{ once: false, amount: 0.3 }} 
-            className="font-bold text-center leading-16 text-4xl sm:text-5xl bg-gradient-to-tr from-red-500 via-indigo-400 to-indigo-600 bg-clip-text text-transparent mb-6">From Registration to Recovery <br /> Here's How
+            className="font-bold text-center leading-16 text-4xl sm:text-5xl bg-gradient-to-tr from-red-500 via-indigo-400 to-indigo-600 bg-clip-text text-transparent mb-6">From Registration to Recovery <br /> Here&apos;s How
         </motion.h2>            
         <motion.div 
             initial={{ opacity: 0, y: 50 }}
