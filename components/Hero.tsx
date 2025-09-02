@@ -24,7 +24,7 @@ export default function Hero() {
               transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
               className="text-4xl sm:text-5xl md:text-6xl lg:text-5xl xl:text-6xl font-semibold mb-6"
             >
-              If life changes, your secrets stay safe
+              Stronger than your notebook, safer than your memory.
             </motion.h1>
 
             <motion.p
@@ -33,8 +33,7 @@ export default function Hero() {
               transition={{ duration: 0.8, delay: 0.4, ease: "easeOut" }}
               className="text-base sm:text-lg text-indigo-100/65 mb-8 leading-relaxed"
             >
-              Assign trusted friends or family as recovery contacts, so your
-              assets are safe no matter what happens.
+              Better way to protect, detect and recover your assets because losing access shouldn&apos;t mean losing everything.
             </motion.p>
 
             <motion.div

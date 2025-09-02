@@ -14,8 +14,7 @@ export default function Footer() {
                 UniqueKeys
             </Link>            
             <p className="text-sm w-80 mt-1">
-              Assign trusted friends or family as recovery contacts, so your
-              assets are safe no matter what happens.
+              Better way to protect, detect and recover your assets because losing access shouldn&apos;t mean losing everything.
             </p>
           </div>
 
